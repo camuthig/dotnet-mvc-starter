@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Chris Muthig",
+  "classifications": [ "MVC", "Postgres", "Bulma" ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "identity": "Camuthig.DotNetStarter.MvcStarter",
+  "name": "MVC Starter",
+  "shortName": "mvc-starter",
+  "sourceName": "MvcStarter"
+}
